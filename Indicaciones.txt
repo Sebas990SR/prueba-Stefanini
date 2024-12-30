@@ -1,0 +1,8 @@
+
+
+Ubicarse en la carpeta "prueba-tecnica" y ejecutar el comando "npm install" para instalar las dependencias
+luego ejecutar el comando "ng serve" para correr el frontend.
+
+
+Ubicarse en la carpeta "backend" y ejecutar el comando "npm install" para instalar las dependencias necesarias
+luego ejecutar el comando "node src/server.js" para correr el backend.
